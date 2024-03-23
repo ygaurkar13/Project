@@ -7,12 +7,16 @@ public class Functions{
 		double a=30,b=50;
 		int mul=multiply(30,50);
 		System.out.println(mul);
+		
 		int diff=Subtract(30,50);
 		System.out.println(diff);
+		
 		int Sum=Addition(30,50);
 		System.out.println(Sum);
+		
 		int Divi=Division(50,5);
 		System.out.println(Divi);
+		
 		int mod=modulus(40,2);
 		System.out.println(mod);
 		int Sq=Square(5);
